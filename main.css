@@ -1,0 +1,84 @@
+body {
+	background: #f5f5f1;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.posts:hover {
+	box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, .4);
+}
+
+h1 {
+	text-align: center;
+	color: #896a55;
+	font-size: 90px;
+	font-size: 'helvetica';
+	margin-bottom: -20px;
+}
+
+.container {
+	max-width: 71%;
+	margin: 100px  auto;
+}
+
+.posts {
+	display: inline-block; 
+	height: 225px;
+	width: 220px;
+	background: #fff;
+	border: solid 1px #ececec;
+	border-radius: 3px;
+	margin: 13px;
+ 	padding: 2px;
+}
+
+.images {
+ 	width: 215px; 
+ 	margin: 2px;
+}
+
+.title {
+ 	width: 215px;
+ 	margin-left: 3px; 
+ 	font-size: 13px; 
+ 	white-space: nowrap;
+ 	overflow: hidden;
+ 	text-overflow: ellipsis;
+}
+
+.title-color {
+	color: #000;
+}
+
+.shop {
+ 	display: inline-block;
+ 	margin-top: 5px;
+ 	margin-left: 3px; 
+ 	font-size: 13px;
+}
+
+.shop-color {
+ 	color: #b2b2b2; 
+}
+
+.price {
+	float: right;
+  	font-size: 12px;
+  	color: #78c042;
+ 	margin-right: 5px;
+  	margin-top: 5px; 
+}
+
+
+
+
+
+
+
+
